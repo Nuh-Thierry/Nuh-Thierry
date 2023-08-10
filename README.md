@@ -12,7 +12,7 @@ Welcome to a world where code dances with AI, and innovation knows no bounds. Un
 - 👯 I’m looking to collaborate on projects 
 - 💬 Lets talk Basketball and persistence
 - ⚡ Fun fact: Am the ladies guy but don't know how to talk to ladies. funny right !
-- 📫 You can reach me on the following platforms
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuh-Thierry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
