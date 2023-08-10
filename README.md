@@ -1,9 +1,8 @@
-### Hi there 👋
+# Nuh Thierry
 
-<!--
-**Nuh-Thierry/Nuh-Thierry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Sofware Developper **
 
-Here are some ideas to get you started:
+Welcome to a world where code dances with AI, and innovation knows no bounds. Unleash the power of ones and zeros as a Full Stack Developer and AI enthusiast. Join me on a journey where algorithms breathe life into possibilities, and every line of code is a brushstroke of the future. Let's transcend limits, craft intelligence, and shape the digital realm together. Embrace the elegance of code and the magic of artificial intelligence, where we don't just dream it – we code it into reality.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
